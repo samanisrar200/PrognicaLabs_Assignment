@@ -15,25 +15,6 @@ Building an explainable QSAR prototype for AI-based hit prioritization
 
 The pipeline integrates RDKit-based cheminformatics with machine learning (Random Forest), chemical space visualization (UMAP), model interpretability (SHAP), and scaffold-aware validation to provide a realistic early-stage hit discovery framework.
 
-Repository Structure
-
-├── Task5/
-│   ├── Task_5_.ipynb                
-│   ├── shortlisted_hits.csv        
-│   └── Task5_summary.pdf           
-│
-├── Task6/
-│   ├── Task6.ipynb                 
-│   └── Task6_summary.pdf          
-│
-├── data/
-│   └── (supporting CSV files)
-│
-├── figures/
-│   
-│
-├── README.md
-└── requirements.txt
 
 **TASK5-5: Hit Identification & Compound Mining**
 
