@@ -1,4 +1,4 @@
-# PrognicaLabs_AssignmentPrognica Labs – Computational Hit Discovery & QSAR Prototype
+# PrognicaLabs_Assignment - Computational Hit Discovery & QSAR Prototype
 
 **Prognica Labs – Computational Hit Discovery & QSAR Prototype**
 
